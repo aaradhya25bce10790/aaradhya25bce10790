@@ -1,4 +1,12 @@
-## Hi there 👋
+ Hi there
+
+ NAME- AARADHYA JAIN
+
+ BRANCH- BTECH(COMPUTER SCIENCE AND ENGINEERING)
+
+ YEAR-2025
+
+ TO GAIN THE CRITICAL THINKING,TECHNICAL PROFICIENCY AND SECURITY AWARENESS NEEDED TO NAVIGATE,CREATE AND COMMUNICATE SAFELY IN A DIGITAL WORLD.
 
 <!--
 **aaradhya25bce10790/aaradhya25bce10790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
